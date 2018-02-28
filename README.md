@@ -11,3 +11,10 @@
 3、簡易2D序列圖動畫撥放、Particle systemlay
 
 4、遊戲內物件生成移動處理
+
+## 實際截圖
+
+![截圖1](https://github.com/lzhengwei/Unity_Gamesinphone/blob/master/image/gameshot1.jpg)
+![截圖2](https://github.com/lzhengwei/Unity_Gamesinphone/blob/master/image/gameshot2.jpg)
+![截圖3](https://github.com/lzhengwei/Unity_Gamesinphone/blob/master/image/gameshot3.jpg)
+
