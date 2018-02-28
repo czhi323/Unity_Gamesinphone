@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a0b9068274cd8514b9b5cfe16c496877
+timeCreated: 1518424550
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animation: {fileID: 1016967686680030, guid: ab4418726671a5b42979455475b06755,
+      type: 2}
+  - scoreTexture: {fileID: 2800000, guid: 4b35444b1661aa54cb84d71ffadbed7b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
